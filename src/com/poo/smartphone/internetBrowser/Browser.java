@@ -1,6 +1,6 @@
 package com.poo.smartphone.internetBrowser;
 
-public interface Chrome {
+public interface Browser {
 
     // abstract methods declarations
     public void pageDisplay();

@@ -1,4 +1,4 @@
 package com.poo.smartphone.musicPlayer;
 
-public class IPod {
+public class VLC {
 }

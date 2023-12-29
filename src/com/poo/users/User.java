@@ -1,4 +1,4 @@
-package com.poo;
+package com.poo.users;
 
 public class User {
 

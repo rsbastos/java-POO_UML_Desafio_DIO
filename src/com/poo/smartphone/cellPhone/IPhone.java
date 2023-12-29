@@ -1,4 +1,4 @@
-package com.poo.smartphone.iphone;
+package com.poo.smartphone.cellPhone;
 
 import com.poo.smartphone.internetBrowser.Chrome;
 import com.poo.smartphone.musicPlayer.IPod;

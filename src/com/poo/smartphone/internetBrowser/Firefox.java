@@ -3,18 +3,15 @@ package com.poo.smartphone.internetBrowser;
 public class Firefox implements Browser {
 
     // implements methods from Interface
-    @Override
     public void pageDisplay() {
-
+        System.out.println("Displaying Firefox Page");
     }
 
-    @Override
     public void addNewTab() {
-
+        System.out.println("Opening New Firefox Tab");
     }
 
-    @Override
     public void refreshPage() {
-
+        System.out.println("Refreshing Firefox Page");
     }
 }

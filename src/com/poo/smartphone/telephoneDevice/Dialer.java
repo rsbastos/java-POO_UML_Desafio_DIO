@@ -3,18 +3,15 @@ package com.poo.smartphone.telephoneDevice;
 public class Dialer implements CellPhone {
 
     // implements methods from Interface
-    @Override
     public void call() {
-
+        System.out.println("Making a call...");
     }
 
-    @Override
     public void answer() {
-
+        System.out.println("Aswering a call...");
     }
 
-    @Override
     public void startVoiceMail() {
-
+        System.out.println("Opening the Voice Mail Box...");
     }
 }
